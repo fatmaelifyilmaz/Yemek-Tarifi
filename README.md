@@ -1,2 +1,1 @@
-# Yemek-Tarifi
-fizik ödevi
+
